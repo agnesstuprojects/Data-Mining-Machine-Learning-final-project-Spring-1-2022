@@ -1,3 +1,7 @@
+[Blog_Data Mining Project ANN and SVM.docx](https://github.com/agnesstuprojects/Data-Mining-Machine-Learning-final-project-Spring-1-2022/files/8155132/Blog_Data.Mining.Project.ANN.and.SVM.docx)
+[Data Mining & Machine Learning final project.pptx](https://github.com/agnesstuprojects/Data-Mining-Machine-Learning-final-project-Spring-1-2022/files/8155133/Data.Mining.Machine.Learning.final.project.pptx)
+[Readme_Data Mining Project.docx](https://github.com/agnesstuprojects/Data-Mining-Machine-Learning-final-project-Spring-1-2022/files/8155134/Readme_Data.Mining.Project.docx)
+[Telco_Customer_Churn.csv](https://github.com/agnesstuprojects/Data-Mining-Machine-Learning-final-project-Spring-1-2022/files/8155135/Telco_Customer_Churn.csv)
 # Data-Mining-Machine-Learning-final-project-Spring-1-2022
 Churn Prediction in Telecoms Industry Using R 
 
