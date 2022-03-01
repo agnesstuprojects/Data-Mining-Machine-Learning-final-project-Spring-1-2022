@@ -1,5 +1,4 @@
-[Data Mining & Machine Learning final project.pptx](https://github.com/agnesstuprojects/Data-Mining-Machine-Learning-final-project-Spring-1-2022/files/8158089/Data.Mining.Machine.Learning.final.project.pptx)
-[Telco_Customer_Churn.csv](https://github.com/agnesstuprojects/Data-Mining-Machine-Learning-final-project-Spring-1-2022/files/8155135/Telco_Customer_Churn.csv)
+[Agnes SitholeData Mining project_Spring1 2022.zip](https://github.com/agnesstuprojects/Data-Mining-Machine-Learning-final-project-Spring-1-2022/files/8158131/Agnes.SitholeData.Mining.project_Spring1.2022.zip)
 # Data-Mining-Machine-Learning-final-project-Spring-1-2022
 Churn Prediction in Telecoms Industry Using R 
 
