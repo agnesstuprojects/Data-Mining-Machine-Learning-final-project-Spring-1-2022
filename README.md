@@ -132,7 +132,7 @@ plot(Customer_Churn_model3)
 ##Examine normalized data to unnormalized values(actual)
 ```{r}
 #note that the predicted and actual values are on different scales
-predictions <- data.frame ( 
+predictions <- table( 
   actual = Customer_Churn1_train$Churn,
   pred = Customer_Churn1_test$Churn)
 
@@ -179,7 +179,7 @@ pred <- predict(modelSVM, Cust_Churn1_test)
 
 # Confusion Matrix
 # Generate confusion Matrix
-ConfusionMatrix1 <- data.frame (
+ConfusionMatrix1 <- table(
   actual = Cust_Churn1_train$Churn,
   pred = Cust_Churn1_test$Churn)
 ConfusionMatrix1
@@ -194,8 +194,6 @@ cat("Vanilla Kernel Accuracy:", vanilla_accuracy)
 
 #RBFDOT
 ```{r}
-set.seed(12345)
-
 modelSVM <- ksvm(Churn ~.,
                  data = Cust_Churn1_train,
                  kernel = "rbfdot")
@@ -204,7 +202,7 @@ modelSVM
 pred <- predict(modelSVM, Cust_Churn1_test)
 
 # Generate confusion Matrix
-ConfusionMatrix2 <- data.frame ( 
+ConfusionMatrix2 <- table( 
   actual = Cust_Churn1_train$Churn,
   pred = Cust_Churn1_test$Churn)
 ConfusionMatrix2
