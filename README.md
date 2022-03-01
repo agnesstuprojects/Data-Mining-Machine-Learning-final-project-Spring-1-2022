@@ -1,3 +1,4 @@
+[Data Mining & Machine Learning final project.pptx](https://github.com/agnesstuprojects/Data-Mining-Machine-Learning-final-project-Spring-1-2022/files/8158039/Data.Mining.Machine.Learning.final.project.pptx)
 [Blog_Data Mining Project ANN and SVM.docx](https://github.com/agnesstuprojects/Data-Mining-Machine-Learning-final-project-Spring-1-2022/files/8155132/Blog_Data.Mining.Project.ANN.and.SVM.docx)
 [Data Mining & Machine Learning final project.pptx](https://github.com/agnesstuprojects/Data-Mining-Machine-Learning-final-project-Spring-1-2022/files/8155133/Data.Mining.Machine.Learning.final.project.pptx)
 [Readme_Data Mining Project.docx](https://github.com/agnesstuprojects/Data-Mining-Machine-Learning-final-project-Spring-1-2022/files/8155134/Readme_Data.Mining.Project.docx)
